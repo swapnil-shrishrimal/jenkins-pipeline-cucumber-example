@@ -1,4 +1,4 @@
-## Fizz Buzz Example in Java 8 using Jenkins Pipeline to publish Cucumber Reports
+## Fizz Buzz Example in Java 8 using Jenkins Pipeline to Publish Cucumber Reports
 
 ### Fizz Buzz is a game where
 - if the number is divisible by 3, you say Fizz
